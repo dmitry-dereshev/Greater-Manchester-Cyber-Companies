@@ -5,4 +5,4 @@ Article link: https://www.linkedin.com/pulse/111-cyber-companies-greater-manches
 
 ## Data Included:
 In Company list:
-Name	Public cyber page (link)	Size (+LinkedIn page where that data came from)	Size Sortable (to sort companies by size)	GMCA Address
+Name, Public cyber page (link), Size (+LinkedIn page where that data came from), Size Sortable (to sort companies by size), GMCA Address.
